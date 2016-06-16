@@ -1,0 +1,7 @@
+Biblioteka is a program created to help manage libraries' bookstocks and clients.
+The program contains a base of clients and a base of books, divided into categories. All data can be exported for later use.
+The limitations are as follows:
+A given book (same title, same author, different id) cannot exist in more than 5 copies.
+A book can only belong to one category.
+There is only one client with a given id.
+There is only one book with a given id.
